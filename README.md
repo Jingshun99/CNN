@@ -2,7 +2,6 @@
 
 This project introduces possible solutions that could be implemented to increase the accuracy of Convolutional Neural Network(CNN) with a small sample size.
 
-This folder contains one runnable file (main.ipynb), two PTH files (cifar_net(e_best) & cifar_net(r_best)) and two subfolder (images,output).
 
 ## Environment:
 - Windows 10 64-bit
